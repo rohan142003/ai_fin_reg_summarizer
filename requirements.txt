@@ -4,3 +4,8 @@ requests
 transformers
 torch
 pdfplumber
+sentence-transformers
+pandas
+matplotlib
+newsapi-python
+python-docx
